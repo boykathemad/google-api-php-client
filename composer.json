@@ -1,5 +1,5 @@
 {
-    "name": "google/apiclient",
+    "name": "boykathemad/google-apiclient-bare",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
